@@ -19,7 +19,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: linear-gradient(rgba(165, 42, 42, 0), rgba(165, 42, 42, 1)),url(/images/header-section.jpg);
+    background-image: linear-gradient(rgba(165, 42, 42, 0), rgba(165, 42, 42, 1)),url(images/header-section.jpg);
     background-size:cover;
     min-height: 20vh;
     padding: 1em;
